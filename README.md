@@ -5,3 +5,4 @@ Et prosjekt for å lære elever innen elektrofaget å bruke Arduino
 
 Innhold:
 * Trafikklys
+* Lys dimming
